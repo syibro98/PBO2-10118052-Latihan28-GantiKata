@@ -7,7 +7,7 @@
  * KELAS     : PBO2
  * NIM       : 10118052
  * Deskripsi Program : Program ini bertujuan untuk menggati kata dari yang kita
- * masukkan 
+ * masukkan.
  * 
  */
  ```
